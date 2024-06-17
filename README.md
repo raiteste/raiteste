@@ -8,9 +8,7 @@
  &nbsp;
 
 ## Stats 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raiana-santana)](https://git.io/streak-stats)&nbsp;
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raiana-santana)](https://git.io/streak-stats)
 ![raiana-santana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raiana-santana&theme=transparent_icons=true&hide_border=true&layout=compact)
 
 
