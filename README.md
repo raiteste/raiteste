@@ -9,7 +9,6 @@
 
 ## Stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raiana-santana)](https://git.io/streak-stats)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiana-santana)](https://github.com/raiana-santana/github-readme-stats)
 
 
 ![raiana-santana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raiana-santana&theme=transparent_icons=true&hide_border=true&layout=compact)
@@ -18,3 +17,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiana-santana&hide_progress=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiana-santana&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiana-santana)](https://github.com/raiana-santana/github-readme-stats)
