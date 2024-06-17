@@ -6,7 +6,6 @@
 - 🤍 I love solving problems and challenging myself
   
  &nbsp;
- &nbsp;
 
 ## Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiteste)](https://github.com/raiteste/github-readme-stats)
