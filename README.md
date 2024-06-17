@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<h1>Hi, there! I'm Raiana</h1>
 <!--
 **raiteste/raiteste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,12 +17,12 @@ Here are some ideas to get you started:
 - 📝 I’m currently learning web development
 - 🎓 I am a student of Systems Analysis and Development at Ruy Barbosa University
 - 🤍 I love solving problems and challenging myself
-
+  
  &nbsp;
  &nbsp;
 
-
-
+## Stats 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiteste)](https://github.com/raiteste/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raiana-santana)](https://git.io/streak-stats)
 ![raiana-santana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raiana-santana&theme=transparent_icons=true&hide_border=true&layout=compact)
 
