@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![raiana-santana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raiana-santana&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?raiana-santana=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?raiteste=anuraghazra&hide_progress=true)
