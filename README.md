@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 💻 I’m currently working at Infinity School
+- 📝 I’m currently learning web development
+- 🎓 I am a student of Systems Analysis and Development at Ruy Barbosa University
+- 🤍 I love solving problems and challenging myself
+
+ &nbsp;
+ &nbsp;
+
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raiana-santana)](https://git.io/streak-stats)
 ![raiana-santana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raiana-santana&theme=transparent_icons=true&hide_border=true&layout=compact)
