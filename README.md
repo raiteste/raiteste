@@ -1,4 +1,4 @@
-<h1>Hi, there! I'm Raiana.</h1>
+# 👋🏼 Hi, there! I'm Raiana.
 
 - 💻 I'm currently working at Infinity School
 - 📄 I'm currently learning web development
@@ -28,8 +28,6 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Contact:
-<div>
   <a href="mailto:contato.raiana22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</div>
